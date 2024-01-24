@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Sofiat Adeyemi 
+I’m currently working on some codes that have to do with java
+I’m currently learning Java, python
+I attend Southeastern Louisiana University
+Pronouns: She/her
 
 <!--
 **sofiaunnie/sofiaunnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
