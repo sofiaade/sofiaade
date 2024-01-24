@@ -3,6 +3,7 @@
 #### I attend Southeastern Louisiana University
 #### I’m currently working on some codes that have to do with java
 #### I’m currently learning Java, python
+##### I attended NIIT and Unilag if it helps.
 #### Pronouns: She/her
 
 <!--
