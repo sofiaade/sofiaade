@@ -1,9 +1,8 @@
 #### Hi there 👋
 #### My name is Sofiat Adeyemi 
-#### I attend Southeastern Louisiana University
-#### I’m currently working on some codes that have to do with java
-#### I’m currently learning Java, python
-##### I attended NIIT and Unilag if it helps.
+#### I am a Computer Science Major with a concentration in Data Science and a minor in Mathematics at  Southeastern Louisiana University
+#### I’m currently working on machine learning and database systems.
+#### I also know a bit of java, python, c#, .net, typescript etc
 #### Pronouns: She/her
 
 <!--
